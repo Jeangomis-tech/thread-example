@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/thread-creation-with-Thread-class/thread-creation-with-Thread-class.iml" filepath="$PROJECT_DIR$/thread-creation-with-Thread-class/thread-creation-with-Thread-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-example.iml" filepath="$PROJECT_DIR$/thread-example.iml" />
     </modules>
   </component>
